@@ -15,7 +15,7 @@ import Model.Worker;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class WorkerDao {
     private static WorkerDao instance = null;

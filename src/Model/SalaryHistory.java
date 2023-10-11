@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class SalaryHistory extends Worker implements Comparable<SalaryHistory>{
     private String status;

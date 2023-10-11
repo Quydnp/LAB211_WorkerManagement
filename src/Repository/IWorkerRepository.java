@@ -12,7 +12,7 @@ import Model.Worker;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public interface IWorkerRepository {
     void addWorker(Hashtable<String, Worker> workers);

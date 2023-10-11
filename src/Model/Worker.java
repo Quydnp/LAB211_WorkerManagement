@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class Worker {
 

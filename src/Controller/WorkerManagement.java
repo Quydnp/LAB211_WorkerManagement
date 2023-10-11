@@ -16,7 +16,7 @@ import View.Menu;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class WorkerManagement extends Menu<String> {
 

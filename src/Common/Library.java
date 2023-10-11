@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class Library {
     protected Scanner sc;

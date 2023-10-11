@@ -9,7 +9,7 @@ import Controller.WorkerManagement;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class Main {
     public static void main(String[] args) {

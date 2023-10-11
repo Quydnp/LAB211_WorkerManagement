@@ -10,7 +10,7 @@ import java.util.Hashtable;
 
 /**
  *
- * @author hieu
+ * @author HI
  */
 public class Validation {
     Library l;
